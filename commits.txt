@@ -1,0 +1,104 @@
+commit 38b460ff1000fa9afe46a7739cb11d632510936a
+Merge: d35e093 791c6ea
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Wed Aug 17 17:30:07 2022 -0600
+
+    Resolviendo conflicto Agreagndo estaciones con fecha
+
+commit d35e093acc3e18d15b6e840a81d1b07a3fbb3246
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Wed Aug 17 17:00:38 2022 -0600
+
+    Agreagndo estaciones con fecha
+
+commit 791c6ea8eb0bd76abd3662f779d98e3ecc1146ae
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Wed Aug 17 17:00:38 2022 -0600
+
+    Agregando las estaciones del anho
+
+commit 91945e4c170eb4bc9398e5c441b9bad5f5676340
+Merge: 60813a6 55e6f33
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Wed Aug 17 09:02:22 2022 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 55e6f3348ff653d29d89eae7126ed8fbe36dc4ea
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Wed Aug 17 08:53:14 2022 -0600
+
+    Mas contenido desde la rama html
+
+commit 6afa28b40622de792848f901608cbae73d3881a3
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Wed Aug 17 08:46:09 2022 -0600
+
+    Agreagando index.js al index.htnl
+
+commit 60813a63c5db804e1576b914057019f38b57e670
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Tue Aug 16 21:55:44 2022 -0600
+
+    Agregando style.css al index.html
+
+commit a98cf01d586944084a1d473b78f03c870ee17648
+Merge: e7e8a35 daa8193
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Tue Aug 16 21:37:29 2022 -0600
+
+    Merge branch 'js'
+
+commit daa8193366017ec46be192a0213a757eeda83b15
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Tue Aug 16 21:30:30 2022 -0600
+
+    index.js creating
+
+commit e7e8a354d2ebfa29736f2ac280c0b790425fa285
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Tue Aug 16 21:24:48 2022 -0600
+
+    style.css creating
+
+commit d98fb6fd9d95613e8407a83eb8e9afe5d7bfcabd
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Tue Aug 16 21:17:16 2022 -0600
+
+    File html create
+
+commit 78fd4827fb4ee61e500e97be0e8153a5eaa6f5f7
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Tue Aug 16 20:50:45 2022 -0600
+
+    Ignorando files .exe
+
+commit 8543ef985a290ff88ef30677cab74bfb3261cf2c
+Author: Omar35 <50966743+Omar35@users.noreply.github.com>
+Date:   Mon Aug 15 19:31:42 2022 -0600
+
+    Creando licencia del Repositorio
+
+commit 06919e40304001645384057587729d04aa73b9ca
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Mon Aug 15 19:25:43 2022 -0600
+
+    Un espacio
+
+commit f44448663eb675df1333b7ae03f2f9f546060f78
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Mon Aug 15 19:24:03 2022 -0600
+
+    Otro contenido
+
+commit 5caf28bb55dd3375d1a27148084f53b1ef49dd6b
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Mon Aug 15 19:10:57 2022 -0600
+
+    Agregando contenido al README
+
+commit b3c7bd1d8405e3aaae65a499f4f3f0c5a6e5338a
+Author: Omar Herrera <omar841203@gmail.com>
+Date:   Mon Aug 15 17:33:01 2022 -0600
+
+    First commit
